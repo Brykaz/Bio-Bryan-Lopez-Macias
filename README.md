@@ -25,7 +25,6 @@ HOBBIES
 # CONTACTO
   email: lbryan370@gmail.com
   facebook: https://www.facebook.com/CbryanlopezM/
-  github: barryclark/jekyll-now
   instagram: @brykaz
 
 
