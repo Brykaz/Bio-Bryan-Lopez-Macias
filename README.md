@@ -1,14 +1,10 @@
 # Bio-Bryan-Lopez-Macias
 Biografia y estudios https://brykaz.github.io/Bio-Bryan-Lopez-Macias/
 
-#
-# This file contains configuration flags to customize your site
-#
+# CREADOR DEL SITIO
+Bryan Lopez Macias
 
-# Name of your site (displayed in the header)
-name: Bryan Lopez
-
-# Short bio or description (displayed in the header)
+# DESCRIPCION - BIOGRAFIA 
 BIOGRAFIA: Me llamo Christian Bryan Lopez Macias, naci el 28 de Julio del año 2000 y actualmente vivo en Guayaquil - Ecuador.
 Tengo 20 años y me encuentro bien de salud.
 
@@ -33,35 +29,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
+# CONTACTO
   email: lbryan370@gmail.com
   facebook: https://www.facebook.com/CbryanlopezM/
   github: barryclark/jekyll-now
   instagram: @brykaz
 
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
 markdown: kramdown
 highlighter: rouge
