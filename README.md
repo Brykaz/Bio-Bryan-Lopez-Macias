@@ -1,5 +1,6 @@
 # Bio-Bryan-Lopez-Macias
-Biografia y estudios https://brykaz.github.io/Bio-Bryan-Lopez-Macias/
+Biografia y Estudios 
+https://brykaz.github.io/Bio-Bryan-Lopez-Macias/
 
 # CREADOR DEL SITIO
 Bryan Lopez Macias
