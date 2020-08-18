@@ -22,13 +22,6 @@ De los ya mencionados hay unos cursos los cuales acabo de cursar en los ultimos 
 HOBBIES
 - Mis hobbies son leer y escuchar musica, auqnue a veces tambien me gusta ver videos sobre temas interesantes tales como "Misterios que no son resueltos hasta el dia de hoy".
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
-
 # CONTACTO
   email: lbryan370@gmail.com
   facebook: https://www.facebook.com/CbryanlopezM/
@@ -36,36 +29,4 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
   instagram: @brykaz
 
 
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
