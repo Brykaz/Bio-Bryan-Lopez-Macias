@@ -1,0 +1,10 @@
+---
+layout: Post
+tittle: ¡Mi primer articulo!
+---
+## Seccion 1
+El virus en la Actualidad
+La pandemia de coronavirus SARS-CoV-2 no muestra síntomas de remisión. En Europa se mira con preocupación el aumento de rebrotes que mantienen todavía en alerta a la población y a las autoridades y obligan a conservar las medidas de distanciamiento social e incluso a imponer nuevas restricciones. Pero es en América donde el virus continúa avanzando de forma inexorable, con nuevos récords de contagio cada día, especialmente en Estados Unidos y Brasil, los dos países con el mayor número de casos y la cifra más alta de muertos por la covid-19. También en India, que es de lejos el país asiático más afectado, y en África, donde la OMS ya ha alertado de la acelaración de la pandemia en el último mes. En cifras totales, más de 22 millones de personas en todo el mundo han sido diagnosticadas de coronavirus. De ellas, 787.000 han perdido la vida.
+
+![_ config.yml]({{site.baseurl}}/images/config.png)
+
